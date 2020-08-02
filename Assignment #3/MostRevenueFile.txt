@@ -1,0 +1,38 @@
+** Brakes **
+	 Discription: ProACT Premium Disc Brake Pads
+	 Price: 149.85
+	 Manufacturer: Akebono
+	 QtySold: 99
+	 Car: 
+	 	 Brand: Lexus
+	 	 Model: LS460
+	 	 Year: 2012
+	 Material: Ceramic
+
+** Lights **
+	 Discription: SilverStar ULTRA Headlight Bulb
+	 Price: 44.99
+	 Manufacturer: Sylvania
+	 QtySold: 128
+	 Car: 
+	 	 Brand: Toyota
+	 	 Model: Corolla
+	 	 Year: 2015
+	 Watts: 60
+
+** Oil **
+	 Discription: Mobil 1 Motor Oil
+	 Price: 36.99
+	 Manufacturer: Mobil
+	 QtySold: 39
+	 Weight: 0W-20
+	 Type: Synthetic
+	 Quarts: 5
+
+** Tires **
+	 Discription: LTX
+	 Price: 224.99
+	 Manufacturer: Michelin
+	 QtySold: 11
+	 Size: P245/70R16
+	 Warranty: 60000

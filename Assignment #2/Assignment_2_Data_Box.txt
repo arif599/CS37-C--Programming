@@ -1,0 +1,20 @@
+Standard tools
+0 0 0 5 14 5 14 0 5
+Metric tools
+0 10 5 10 5 5 0 5 5
+Plastic parts
+10 10 10 5 5 5 5 10 5
+Steel parts
+13 7 10 7 10 8 13 8 3.8
+Aluminum parts
+10 5 10 7 15 7 15 5 4.5
+Rubber gaskets
+0 14 4 10 0 10 4 14 4
+Large bags
+4 10 8 10 8 14 4 14 4
+Small bags
+8 10 8 14 12 14 12 10 4.5
+Sealant
+14 8 14 9 10 8 10 9 5
+Liquid nitrogen
+10 9 10 10 11 10 11 9 5

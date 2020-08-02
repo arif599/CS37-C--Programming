@@ -1,0 +1,90 @@
+//----------------------------------------------------------------------------//
+// Name:                                                                      //
+// Student ID:                                                                //
+// Assignment: #4                                                             //
+//----------------------------------------------------------------------------//
+
+#include <fstream>
+#include <iomanip>
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class Car
+{
+	
+};
+
+class Manufacturer
+{
+
+};
+
+class Parts
+{
+};
+
+class Brakes : public Parts
+{
+};
+
+class Lights : public Parts
+{
+};
+
+class Oil : public Parts
+{
+};
+
+class Tires : public Parts
+{
+};
+
+void parseLineToTokens(string lineText, string tokens[]);
+
+int main()
+{
+	//open the file from which to read the data
+
+	//call a global function to find out how many objects
+
+	//dynamically create ONE array of pointers (or other single data structure of your choice)
+	//that will point to objects containing the information
+
+	//Call functions to do ALL the processing polymorphically
+
+	//Make sure to handle conversion exceptions!!!
+	//Use of stoi() and stof() is required!!!
+}
+
+// Parse a line of text into tokens and store them in an array of strings
+void parseLineToTokens(string lineText, string tokens[15])
+{
+  int end, start;
+
+  start = -2;
+  for (int j = 0; j < 15; j++)
+  {
+    start = start + 3;
+    end = lineText.find('"', start);
+    tokens[j] = lineText.substr(start, end - start);
+    start = end;
+  }
+}
+
+
+
+// Notes:
+//
+// Example:
+// To create an array of 'cnt' Books items, where 'cnt' can only be determined at the time the program is run:
+//   Books *booksList = new Books[cnt];
+//
+// To clean up dynamically allocated memory when done with the dynamically allocated array:
+//   delete [] booksList;
+//
+//
+// To go back and read from the beginning of the file that was already opened and read till the EOF
+//   bookFile.clear();			// reset the EOF state
+//   bookFile.seekg(0, ios::beg);	// set pointer at the beginning of the file		

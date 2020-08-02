@@ -1,0 +1,336 @@
+Irvine Valley College
+CA
+USA
+33.675373
+-117.777549
+66
+Tierra del Fuego National Park
+Tierra del Fuego
+Argentina
+-54.799968
+-68.299998
+Papahanaumokuakea Marine National Monument
+Hawaii
+USA
+25.700001
+-171.733337
+Sand Harbor State Park
+NV
+USA
+39.198364
+-119.930984
+White Sands National Park
+NM
+USA
+32.779720
+-106.171669
+Mojave National Preserve
+CA
+USA
+35.141689
+-115.510399
+Waterberg Plateau National Park
+
+Namibia
+-20.343880
+17.532283
+Jasper National Park
+AB
+Canada
+52.799999
+-117.900002
+Joshua Tree National Park
+CA
+USA
+33.881866
+-115.900650
+Hot Springs National Park
+AR
+USA
+34.521530
+-93.042267
+Karijini National Park
+WA
+Australia
+-22.250332
+117.971996
+Kartchner Caverns State Park
+AZ
+USA
+31.837551
+-110.347382
+Sipsey Wilderness
+AL
+USA
+34.332035
+-87.434799
+Wrangell-St. Elias National Park and Preserve
+AK
+USA
+61.710445
+-142.985687
+Lake Clark National Park and Preserve
+AK
+USA
+60.412697
+-154.323502
+Katmai National Park and Preserve
+AK
+USA
+58.597813
+-154.693756
+Glacier Bay National Park and Preserve
+AK
+USA
+58.665806
+-136.900208
+Odiorne Point State Park
+NH
+USA
+43.049023
+-70.720192
+Channel Islands National Park
+CA
+USA
+33.998028
+-119.772949
+Maplewood State Park
+MN
+USA
+46.520966
+-95.951576
+Gesause
+
+Austria
+47.592222
+14.648889
+Bear Butte State Park
+SD
+USA
+44.475296
+-103.424309
+Banff National Park
+AB
+Canada
+51.496845
+-115.928055
+Denali National Park and Preserve
+AK
+USA
+63.129887
+-151.197418
+Acadia National Park
+ME
+USA
+44.338974
+-68.273430
+Gates of the Arctic National Park and Preserve
+AK
+USA
+67.915199
+-153.463730
+Pedernales Falls State Park
+TX
+USA
+30.308069
+-98.257729
+Mesa Verde National Park
+CO
+USA
+37.230873
+-108.461838
+Iguazu National Park
+Misiones
+Argentina
+-25.685469
+-54.450001
+Arches National Park
+UT
+USA
+38.733082
+-109.592514
+Tongariro National Park
+
+New Zealand
+-39.272709
+175.580228
+Mount Rainier National Park
+WA
+USA
+46.879967
+-121.726906
+Kenai Fjords National Park
+AK
+USA
+60.043777
+-149.816360
+Yellowstone National Park
+WY
+USA
+44.427895
+-110.588379
+Great Smoky Mountains National Park
+TN
+USA
+35.611763
+-83.489548
+Zion National Park
+UT
+USA
+37.317207
+-113.022537
+Yosemite National Park
+CA
+USA
+37.865101
+-119.538330
+Haleakal National Park
+HI
+USA
+20.701283
+-156.173325
+Manti-La Sal National Forest
+UT
+USA
+39.187050
+-111.379890
+Cherry Creek State Park
+CO
+USA
+39.639973
+-104.831863
+Kissimmee Prairie Preserve State Park
+FL
+USA
+27.612417
+-81.053383
+Petrified Forest National Park
+AZ
+USA
+34.909988
+-109.806793
+Chattahoochee National Forest
+GA
+USA
+34.765972
+-84.143517
+Siuslaw National Forest
+OR
+USA
+44.358715
+-123.829994
+Kings Canyon National Park
+CA
+USA
+36.887856
+-118.555145
+Addo Elephant Nation Park
+Eastern Cape
+South Africa
+-33.483333
+25.750000
+Kings Mountain State Park
+SC
+USA
+35.130459
+-81.345444
+Honolulu Watershed Forest Preserve
+HI
+USA
+21.363251
+-157.781265
+Oleta River State Park
+FL
+USA
+25.921614
+-80.144402
+Willamette National Forest
+OR
+USA
+44.060471
+-122.091736
+Golden Gate Canyon State Park
+CA
+USA
+39.814339
+-105.395622
+William F Hayden Green Mountain Park
+CO
+USA
+39.702827
+-105.175636
+Myakka State Forest
+FL
+USA
+26.988386
+-82.286552
+Shenandoah National Park
+VA
+USA
+38.700516
+-78.292694
+Ricketts Glen State Park
+PA
+USA
+41.339184
+-76.290436
+El Dorado State Park
+KS
+USA
+37.866047
+-96.756935
+Polihale State Park
+HI
+USA
+22.079357
+-159.761642
+Kekaha Kai State Park
+HI
+USA
+19.788027
+-156.023453
+Castlewood Canyon State Park
+CO
+USA
+39.319424
+-104.730606
+Hillman State Park
+PA
+USA
+40.453739
+-80.400864
+Little Big Econ State Forest
+FL
+USA
+28.673721
+-81.104507
+Everglades National Park
+FL
+USA
+25.286615
+-80.898651
+Mount Mitchell State Park
+NC
+USA
+35.768803
+-82.306137
+Mount Hood National Forest
+OR
+USA
+45.454350
+-121.933136
+Island Park
+ID
+USA
+44.429733
+-111.440849
+Redwood National Park
+CA
+USA
+41.213181
+-124.004631
+Glacier National Park
+BC
+Canada
+51.335289
+-117.529760

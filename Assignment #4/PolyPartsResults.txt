@@ -1,0 +1,62 @@
+Tires     OffRoader                          Bridgestone    Tiered        139.99       121  16938.79  13768.66   3170.13
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         39.99       231   9699.57   7516.90   2182.67
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           33.49       333  11152.17   9287.70   1864.47
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         21.99       342   7896.61   6039.96   1856.65
+Brakes    Professional Disc Brake Pads       AC Delco       None           39.99       423  16915.77  15223.77   1692.00
+Tires     Pilot                              Michelin       Tiered        139.99        93  13019.07  11438.07   1581.00
+Lights    TruVision Headlight Bulb           Bosch          Tiered         32.99       202   6663.98   5270.38   1393.60
+Lights    Headlight Bulb                     EiKO           None            9.99       621   6203.79   4961.79   1242.00
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         34.99       182   6686.59   5458.18   1228.41
+Oil       Max Life Motor Oil                 Valvoline      Bulk           30.99       144   4462.56   3240.00   1222.56
+Tires     LTX                                Michelin       Tiered        209.99        63  13229.37  12032.37   1197.00
+Lights    SilverStar ULTRA Headlight Bulb    Sylvania       Bulk           44.99       128   5758.72   4606.85   1151.87
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         29.00       203   6181.35   5095.44   1085.91
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           27.39       221   6053.19   4970.51   1082.68
+Lights    SilverStar ULTRA Headlight Bulb    Sylvania       Bulk           34.99       172   6018.28   4952.05   1066.23
+Lights    XtraVision Headlight Bulb          Sylvania       None           14.99       533   7989.67   6923.67   1066.00
+Tires     RoadRunner                         General        Tiered        129.99        75   9749.25   8699.25   1050.00
+Lights    TruVision Headlight Bulb           Bosch          Tiered         32.99       172   5674.28   4642.45   1031.83
+Oil       Long Life Motor Oil                Pennzoil       Tiered          4.99       351   1751.49    777.85    973.64
+Brakes    Professional Disc Brake Pads       AC Delco       None           22.49       376   8456.24   7516.24    940.00
+Lights    Headlight Bulb                     EiKO           None           19.99       321   6416.79   5534.04    882.75
+Tires     Destination                        Firestone      Tiered        105.99        88   9327.12   8447.12    880.00
+Brakes    Professional Disc Brake Pads       AC Delco       None           21.99       285   6267.15   5412.15    855.00
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         24.99       100   2623.95   1849.00    774.95
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         44.99       123   5810.46   5041.77    768.69
+Oil       Mobil Super Motor Oil              Mobil          Tiered          7.49       304   2307.36   1568.82    738.54
+Brakes    Quietcast Disc Brake Pads          Bosch          Tiered         29.99       154   4849.38   4156.46    692.92
+Oil       Mobil Super Motor Oil              Mobil          Tiered          7.49       322   2443.98   1767.78    676.20
+Lights    SilverStar Headlight Bulb          Sylvania       Tiered         25.99       111   2884.89   2245.62    639.27
+Oil       Max Life Motor Oil                 Valvoline      Bulk           26.99       114   3076.86   2461.37    615.49
+Oil       Mobil Super Motor Oil              Mobil          Tiered          7.49       313   2375.67   1762.38    613.29
+Tires     Pilot                              Michelin       Tiered        119.99        43   5159.57   4557.57    602.00
+Oil       Heavy Duty Motor Oil               Shell          Bulk            5.29       354   1872.66   1271.21    601.45
+Oil       Max Life Motor Oil                 Valvoline      Bulk           23.99        87   2087.13   1486.92    600.21
+Oil       Max Life Motor Oil                 Valvoline      Bulk           25.99        99   2573.01   2048.41    524.60
+Lights    XtraVision Headlight Bulb          Sylvania       None           16.99       136   2310.64   1800.64    510.00
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           28.39        97   2753.83   2268.93    484.90
+Oil       Advanced Durability Motor Oil      Quaker State   Tiered          5.49       201   1103.49    631.34    472.15
+Tires     Assurance                          Goodyear       Tiered        147.99        39   5771.61   5303.61    468.00
+Oil       Mobil Super Motor Oil              Mobil          Tiered          7.49       291   2208.69   1743.09    465.60
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           23.39       101   2362.39   1907.99    454.40
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           26.44        76   2009.44   1572.52    436.92
+Brakes    Professional Disc Brake Pads       AC Delco       None           19.99       144   2878.56   2446.56    432.00
+Lights    CryptonLight                       Bosch          Tiered         19.99       111   2218.89   1800.49    418.40
+Oil       Max Life Motor Oil                 Valvoline      Bulk           24.99        76   1899.24   1504.12    395.12
+Tires     Destination                        Firestone      Tiered         95.99        55   5279.45   4894.45    385.00
+Oil       High Mileage Motor Oil             Valvoline      Bulk            6.49       154    999.46    622.31    377.15
+Brakes    HiPerform Disc Brake Pads          BrakeBest      None           33.52       144   4826.88   4462.56    364.32
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           22.99        53   1218.47    905.82    312.65
+Tires     OffRoader                          Bridgestone    Tiered        159.99        21   3359.79   3065.79    294.00
+Tires     Continental                        Michelin       Tiered         89.99        30   2699.70   2429.70    270.00
+Tires     Altimax                            General        Tiered         99.99        27   2699.73   2456.73    243.00
+Tires     LTX                                Michelin       Tiered        224.99        11   2474.89   2232.89    242.00
+Lights    XtraVision Headlight Bulb          Sylvania       None           16.99       136   2310.64   2072.64    238.00
+Lights    CryptonLight                       Bosch          Tiered         29.99        71   2129.29   1934.04    195.25
+Brakes    Professional Disc Brake Pads       AC Delco       None           24.99        55   1374.45   1209.45    165.00
+Oil       GTX Motor Oil                      Castrol        None           30.99        52   1611.48   1455.48    156.00
+Brakes    Professional Grade Disc Brake Pads Raybestos      Tiered         39.15        45   1761.75   1619.55    142.20
+Oil       Mobil 1 Motor Oil                  Mobil          None           36.99        39   1462.11   1325.61    136.50
+Tires     Altimax                            General        Tiered         89.99        14   1259.86   1147.86    112.00
+Tires     RoadRunner                         General        Tiered        109.99         5    549.95    479.95     70.00
+Brakes    Thermoquiet Disc Brake Pads        Wagner         Bulk           22.99        11    252.89    219.89     33.00

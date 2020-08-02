@@ -1,0 +1,89 @@
+//----------------------------------------------------------------------------//
+// Name:                                                                      //
+// Student ID:                                                                //
+// Assignment: #3                                                             //
+//----------------------------------------------------------------------------//
+
+#include <fstream>
+#include <iomanip>
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class Car
+{
+	
+};
+
+class Manufacturer
+{
+
+};
+
+class Parts
+{
+};
+
+class Brakes : public Parts
+{
+};
+
+class Lights : public Parts
+{
+};
+
+class Oil : public Parts
+{
+};
+
+class Tires : public Parts
+{
+};
+
+void parseLineToTokens(string lineText, string tokens[]);
+
+int main()
+{
+	//open the file from which to read the data
+
+	//call a global function to find out how many objects of each type to create
+
+	//create dynamically sized arrays to contain the necessary objects
+	     -- YOU MUST USE THE SYNTAX GIVEN IN THE EXAMPLE BELOW
+
+	//call a global function to read information from the file into the arrays of objects
+
+	//call functions to find the best selling item for each category, output best to a file
+
+	//close the file explicitly
+}
+
+// Parse a line of text into tokens and store them in an array of strings
+void parseLineToTokens(string lineText, string tokens[])
+{
+	// Using the substr() member function (class string), break the line of text read in from the file
+	// into an array of strings, discarding the characters being used as delimiters.
+	// Starting with the following line of text:  The*quick*brown*fox
+	// Ending with the tokens array with these values:
+	// tokens[0] = The
+	// tokens[1] = quick
+	// tokens[2] = brown
+	// tokens[3] = fox
+}
+
+
+
+// Notes:
+//
+// Example:
+// To create an array of 'cnt' Books items, where 'cnt' can only be determined at the time the program is run:
+//   Books *booksList = new Books[cnt];
+//
+// To clean up dynamically allocated memory when done with the dynamically allocated array:
+//   delete [] booksList;
+//
+//
+// To go back and read from the beginning of the file that was already opened and read till the EOF
+//   bookFile.clear();			// reset the EOF state
+//   bookFile.seekg(0, ios::beg);	// set pointer at the beginning of the file		

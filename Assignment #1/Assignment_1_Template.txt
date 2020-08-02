@@ -1,0 +1,42 @@
+//----------------------------------------------------------------------//
+//                                                                      //
+// Name:                                                                //
+//                                                                      //
+//----------------------------------------------------------------------//
+
+
+#include <iostream>
+
+struct Location
+{
+
+}
+
+struct Park
+{
+  Location pkLoc;
+}
+
+void openFile(ifstream &inFile, string fname);
+double calcDistance(Location stPoint, Park onePark);
+
+int main()
+{
+  - create necessary variables
+
+  - call global function to open the file
+  - continue only if the file was opened successfully
+  - call global function to process the file 'returning' necessary information to generate output
+  - call global function to display the results (don't repeat code in this function)
+}
+
+
+
+/*
+  Copy the results of your program here.
+  Replace the '???' with the appropriate parameter list for each function
+  Remove all unused code
+
+  An approximation of PI that you can use:
+    double PI = 4.0 * atan(1.0);
+*/

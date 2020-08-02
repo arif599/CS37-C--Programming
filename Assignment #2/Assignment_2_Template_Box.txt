@@ -1,0 +1,56 @@
+//--------------------------------------------------------//
+// Name:                                                  //
+// Assignment: #2                                         //
+//--------------------------------------------------------//
+
+#include <iostream>
+
+class Box
+{
+	public:
+		Box();
+		float getHeight();
+		float getLength();
+		float getWidth();	
+		float getMaxX();
+		float getMaxY();
+		float getMaxZ();
+		float getMinX();
+		float getMinY();
+		float getMinZ();
+		float getVolume();		// must be used
+		void setData();
+
+	private:
+};
+
+Box::Box()
+{
+
+}
+
+float Box::getVolume()
+{
+
+}
+
+
+int main()
+{
+	//declare an array to hold objects of type (it doesn't need to be a dynamic allocation, use Box[10])
+
+	//call a global function to load the user input into each object -- use overloaded stream extraction operator
+
+	//call a global function to print results for part #1 and #2
+
+	//call a global function to print results for part #3 -- use overloaded stream insertion operator
+
+	//print the results for part #4
+}
+
+
+/*
+
+Results go here!
+
+*/
